@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MoneyPlan.Web/1.0.0": {
+        "runtime": {
+          "MoneyPlan.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoneyPlan.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
